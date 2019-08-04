@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DuBaoThoiTiet</string>
+    <string name="hint_city">Tỉnh/Thành phố</string>
+    <string name="toa_do">Tọa độ</string>
+    <string name="thoi_tiet_7_ngay">Dự báo thời tiết 7 ngày</string>
+    <string name="do_am">Độ ẩm</string>
+    <string name="may">Mây</string>
+    <string name="toc_do_gio">Tốc độ gió</string>
+    <string name="mat_troi_moc">Mặt trời mọc</string>
+    <string name="mat_troi_lan">Mặt trời lặn</string>
+    <string name="chi_tiet">Chi tiết</string>
+    <string name="tiep_theo">TIẾP THEO</string>
+    <string name="thoi_tiet_o">Thời tiết ở</string>
+</resources>

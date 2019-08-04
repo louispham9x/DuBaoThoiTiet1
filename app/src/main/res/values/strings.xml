@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">DuBaoThoiTiet</string>
+    <string-array name="thanhpho">
+        <item>An Giang</item>
+        <item>Bà Rịa - Vũng Tàu</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Kạn</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Biên Hòa</item>
+        <item>Bỉm Sơn</item>
+        <item>Buôn Ma Thuột</item>
+        <item>Bình Định</item>
+        <item>Bình Dương</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cẩm Phả</item>
+        <item>Cam Ranh</item>
+        <item>Cần Đước</item>
+        <item>Cần Giờ</item>
+        <item>Cần Thơ</item>
+        <item>Cao Bằng</item>
+        <item>Cao Lãnh</item>
+        <item>Châu Đốc</item>
+        <item>Củ Chi</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hậu Giang</item>
+        <item>Hòa Bình</item>
+        <item>Huế</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lâm Đồng</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Nha Trang</item>
+        <item>Phú Thọ</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên Huế</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+        <item>Phú Yên</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+        <item>Hà Nội</item>
+        <item>TP HCM</item>
+        <item>Đà Lạt</item>
+        <item>Điện Biên Phủ</item>
+        <item>Đông Hà</item>
+        <item>Đồng Hới</item>
+        <item>Đồng Xoài</item>
+        <item>Hà Đông</item>
+        <item>Hà Giang</item>
+        <item>Hạ Long</item>
+        <item>Hà Nội</item>
+        <item>Hà Tiên</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hòa Bình</item>
+        <item>Hội An</item>
+        <item>Huế</item>
+        <item>Hưng Yên</item>
+        <item>Kon Tum</item>
+        <item>La Gi</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+        <item>Long Xuyên</item>
+        <item>Mỹ Tho</item>
+        <item>Nam Định</item>
+        <item>Nha Trang</item>
+        <item>Ninh Bình</item>
+        <item>Phan Rang - Tháp Chàm</item>
+        <item>Phan Thiết</item>
+        <item>Phú Khương</item>
+        <item>Phủ Lý</item>
+        <item>Pleiku</item>
+        <item>Quảng Ngãi</item>
+        <item>Quy Nhơn</item>
+        <item>Rạch Giá</item>
+        <item>Sa Đéc</item>
+        <item>Sa Pa</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Sơn Tây</item>
+        <item>Sông Cầu</item>
+        <item>Tam Kỳ</item>
+        <item>Tân An</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thành phố Hồ Chí Minh</item>
+        <item>Ho Chi Minh City</item>
+        <item>Thanh pho Ho Chi Minh</item>
+        <item>Thủ Dầu Một</item>
+        <item>Trà Vinh</item>
+        <item>Tuy Hòa</item>
+        <item>Tuyên Quang</item>
+        <item>Uông Bí</item>
+        <item>Việt Trì</item>
+        <item>Vinh</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Yên</item>
+        <item>Vũng Tàu</item>
+        <item>Yên Bái</item>
+    </string-array>
+    <string name="hint_city">City/State</string>
+    <string name="toa_do">Geo coord</string>
+    <string name="thoi_tiet_7_ngay">7 days weather forecast</string>
+    <string name="do_am">Humidity</string>
+    <string name="may">Cloud</string>
+    <string name="toc_do_gio">Wind speed</string>
+    <string name="mat_troi_moc">Sunrise</string>
+    <string name="mat_troi_lan">Sunset</string>
+    <string name="chi_tiet">Descriptions</string>
+    <string name="tiep_theo">Next</string>
+    <string name="thoi_tiet_o">Weather in</string>
+</resources>
